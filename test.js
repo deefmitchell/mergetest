@@ -1,1 +1,1 @@
-
+console.log("removed alerts");
